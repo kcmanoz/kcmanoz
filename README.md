@@ -6,8 +6,10 @@
 <br/>
 <br/>
 💻 https://www.kcmanoj.com
+<br/>
+<br/>
 
-## Languages and Tools
+## Skills
 
 
 [![My Skills](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

@@ -17,7 +17,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react)](https://reactjs.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=html)](https://www.w3.org/html)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![My Skills](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=jest)](https://jestjs.io)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=sqlite)]([https://skillicons.dev](https://www.sqlite.org))&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com)

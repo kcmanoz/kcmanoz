@@ -2,7 +2,7 @@
 
 ## A passionate Frontend Developer
 
-📩 manoz.kc22@gmail.com
+📩 manoj.kc.contact@gmail.com
 <br/>
 <br/>
 💻 https://www.kcmanoj.com

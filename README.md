@@ -1,6 +1,6 @@
 # Hi 👋, I'm Manoj K.C.
 
-## A passionate Frontend Developer
+## A dedicated software developer with strong expertise in frontend technologies including React, TypeScript, and Tailwind CSS. I enjoy crafting intuitive, user-focused interfaces and have experience in collaborative development, testing, and CI/CD workflows. Currently expanding my backend development skills to become a well-rounded full-stack developer. Passionate about building impactful digital experiences and continuously learning.
 
 📩 manoj.kc.contact@gmail.com
 <br/>
